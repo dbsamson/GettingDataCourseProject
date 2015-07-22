@@ -2,7 +2,7 @@ Code Book
 
 The raw data anaylzed comes from work by Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz, entitled
 "A Public Domain Dataset for Human Activity Recognition Using Smartphones" 
-The background material and the data itself are available here:  datahttp://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones .
+The background material and the data itself are available here:  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones .
 
 2 sets of data were provided: test and training.  Data was provided in the following files:
 	primary data file - called  Xtrain.txt or Xtest.txt
